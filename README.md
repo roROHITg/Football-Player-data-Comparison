@@ -8,6 +8,15 @@ This GitHub repository contains Jupyter notebooks for analyzing football player 
 - Jupyter Notebooks
 - Required Python libraries: `mplsoccer`, `PIL`, `matplotlib.pyplot`
 
+## Installation
+Use the package manager pip to install mplsoccer.
+```bash
+pip install mplsoccer
+```
+Or install via Anaconda.
+```bash
+conda install -c conda-forge mplsoccer
+```
 ## License
 This project is licensed under the [MIT License](LICENSE)
 
